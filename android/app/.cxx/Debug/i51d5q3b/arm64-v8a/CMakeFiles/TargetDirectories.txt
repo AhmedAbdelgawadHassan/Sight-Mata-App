@@ -1,0 +1,2 @@
+D:/sight_mata App/android/app/.cxx/Debug/i51d5q3b/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/sight_mata App/android/app/.cxx/Debug/i51d5q3b/arm64-v8a/CMakeFiles/rebuild_cache.dir
